@@ -1,3 +1,10 @@
+# Noah's Bootstrap practice
+
+By Noah, Intro Coding for Journalists class
+
+This repo is a class assignment to practice Bootstrap. It is due March 8, 2025.
+
+---
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
